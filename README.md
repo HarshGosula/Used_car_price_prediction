@@ -16,12 +16,11 @@ The dataset includes the following features:
 - **Transmission:** Whether the car has a manual or automatic transmission
 - **Previous Owners:** Number of previous owners of the car
 
- The dataset is publicly available and can be found [here](https://www.kaggle.com/mlg-ulb/creditcardfraud).
+ The dataset is publicly available and can be found [here](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction).
 
- ## SetUp & Installation
+ ## Setup & Installation
  To run this project locally, you need to have Python installed.
 
- 1. Clone the repository:
+ ## Clone the repository:
    ```bash
    git clone https://github.com/HarshGosula/Used_car_price_prediction.git
-   cd car-price-prediction
